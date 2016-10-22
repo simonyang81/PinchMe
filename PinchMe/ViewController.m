@@ -22,9 +22,6 @@ CGFloat scale, previousScale;
 // 定义 当前旋转角度 和 先前旋转角度
 CGFloat rotation, previousRotation;
 
-// 定义 当前位置 和 先前位置
-CGFloat location, previousLocation;
-
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
